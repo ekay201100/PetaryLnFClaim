@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905393505386",
+    "project_id": "lost-and-found-56362",
+    "storage_bucket": "lost-and-found-56362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905393505386:android:2017edb73a20894a627613",
+        "android_client_info": {
+          "package_name": "com.enriqueed.lostandfound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6D1gNjwn1GZ-JHwfW-K1ocLpkfmkqCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
